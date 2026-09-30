@@ -1,6 +1,7 @@
-CREATE DATABASE universidade;
+CREATE DATABASE faculdade;
 
-USE universidade
+USE faculdade;
+
 CREATE TABLE titulacaomax(
     id_titular INT AUTO_INCREMENT PRIMARY KEY,
     nome VARCHAR(100) NOT NULL
