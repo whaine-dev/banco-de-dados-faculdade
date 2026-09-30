@@ -17,3 +17,7 @@ A partir desse modelo conceitual, foi feito o mapeamento para o modelo relaciona
 # modelo relacional
 
 <img src="fotos/modelo_relacional.jpeg" alt="m_relaciona.jpeg">
+
+# modelo logíco
+
+<img src="fotos/modelo_logico.png" alt="m_logico">
